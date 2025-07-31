@@ -40,8 +40,8 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Education Section Logo's
 import glaLogo from './assets/education_logo/Dr.png';
-import bsaLogo from './assets/education_logo/bsa_logo.png';
-import vpsLogo from './assets/education_logo/vps_logo.png';
+// import bsaLogo from './assets/education_logo/';
+import vpsLogo from './assets/education_logo/Mahavir.png';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
@@ -176,17 +176,17 @@ export const SkillsInfo = [
       date: "Sept 2020 - July 2024",
       grade: "7.40 CGPA",
       desc: "I have completed my bachelor degree (B-Tech) in Information Technology from DBATU University, Lonere. During my time at DBATU, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
-      degree: "Master of Computer Applications - MCA",
+      degree: "Bachelor of Technology - B.Tech",
     },
-    {
-      id: 1,
+    // {
+      // id: 1,
     //   img: bsaLogo,
     //   school: "BSA College, Mathura",
     //   date: "Sept 2018 - Aug 2021",
     //   grade: "73.2%",
     //   desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from BSA College, Mathura. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
     //   degree: "Bachelor of Science - BSC (Computer Science)",
-    },
+    // },
     {
       id: 2,
       img: vpsLogo,
